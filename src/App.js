@@ -21,8 +21,7 @@ class App extends Component {
           </a>
         </header>
       </div>
-    );
-  }
-}
+    );}}
 
-export default App;
+
+    export default App;
